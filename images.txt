@@ -1,2 +1,2 @@
 docker.elastic.co/elasticsearch/elasticsearch:8.6.2
-tag registry.cn-hangzhou.aliyuncs.com/sanmu/es:8.6.2
+tag 04485c81cc2d registry.cn-hangzhou.aliyuncs.com/sanmu/es:8.6.2
