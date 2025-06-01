@@ -1,2 +1,2 @@
-docker pull docker.elastic.co/elasticsearch/elasticsearch:8.6.2
-docker tag registry.cn-beijing.aliyuncs.com/sanmu/es:8.6.2
+docker.elastic.co/elasticsearch/elasticsearch:8.6.2
+tag registry.cn-beijing.aliyuncs.com/sanmu/es:8.6.2
